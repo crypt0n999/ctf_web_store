@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b412a104-ffd6-44e9-bfe9-7034c36abf99" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="e8e4496c-7f07-4069-b74e-bf38bc5c1367" name="Xdebug" port="8888" />
+      <server host="127.0.0.1" id="5508e833-a4a1-45f6-8668-9b05bea5360e" name="127.0.0.1" />
+    </servers>
+  </component>
+  <component name="PhpWebServerValidation" path_to_validation_script="$PROJECT_DIR$" selected_validation_type="LOCAL" web_path_to_validation_script="http://localhost:8888" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP7.4.29" />
+  <component name="ProjectId" id="2AbRdHugywhW31DwybViNnLT94B" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Project.color&quot;: &quot;004e20&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/spencer/Sites/web&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.webide.settings.project.settings.php.debug&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="PHP Script.ssrf">
+    <configuration name="ssrf" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/ssrf.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="Xdebug" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="Xdebug">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="PHP Script.ssrf" />
+      <item itemvalue="PHP Web Page.Xdebug" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b412a104-ffd6-44e9-bfe9-7034c36abf99" name="Changes" comment="" />
+      <created>1655276383610</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655276383610</updated>
+      <workItem from="1655276384775" duration="4200000" />
+      <workItem from="1663159737152" duration="1226000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
